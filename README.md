@@ -19,7 +19,7 @@ I'm a Software Engineering student on a mission to become a **Tech Architect and
 
 **Start Date:** 01/04/2026  
 **Current Day:** 0/100 of #100DaysOfCode  
-**Current Month:** 1/12 of Architect Program
+**Current Month:** 0/12 of Architect Program
 
 ---
 
