@@ -17,7 +17,7 @@ I'm a Software Engineering student on a mission to become a **Tech Architect and
 **Focus:** Beginner Fundamentals → ES6+ Architecture, Memory Management, Asynchronous Patterns, Event Loop  
 **Milestone Target:** Custom CLI Task Runner with concurrent process management
 
-**Start Date:** 01/04/2026  
+**Start Date:** 00/00/2026  
 **Current Day:** 0/100 of #100DaysOfCode  
 **Current Month:** 0/12 of Architect Program
 
